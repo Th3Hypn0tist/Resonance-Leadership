@@ -1,13 +1,16 @@
-source_repo_url: https://github.com/Th3Hypn0tist/Resonanssijohtaminen
-source_branch: main
 target_language: English
+source_path: /source
 fixed_terms:
   - Resonance Leadership
-  - Resonance / Resonanssi
   - SXaS (Structure as a Service)
   - MaxROI (Maximum Return on Intelligence)
   - AIGM (AI Governance Model)
   - FreeMarket
   - Service Leadership
   - Exitability
-chapters: []
+translated_at:
+file_count: 0
+missing_sources:
+  - /source (directory missing)
+  - /source/sisallyluettelo.txt
+  - /source/README.md

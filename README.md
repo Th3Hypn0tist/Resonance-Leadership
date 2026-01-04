@@ -2,10 +2,8 @@
 
 Source repository: https://github.com/Th3Hypn0tist/Resonanssijohtaminen
 
-## How this translation works
-This repository translates the book chapter-by-chapter, preserving meaning 1:1 while optimizing readability. Fixed terms remain in English as specified.
+## Translation status
+The expected `/source/` directory is missing in this repository, so no chapters could be translated. Once `/source/` is available, rerun the translation process to mirror its contents into the repository root.
 
 ## Chapters
-- _Placeholder_ (TOC pending)
-
-Note: Meaning 1:1, readability optimized, fixed terms preserved.
+- _Unavailable — source directory missing_
